@@ -221,3 +221,38 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Research datasets
+Data/
+data/
+datasets/
+
+# Trained models and checkpoints
+models/
+checkpoints/
+*.zip
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Generated experimental outputs
+outputs/
+results/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.old
+
+# Local environment and configuration
+.env.*
+!.env.example
+
