@@ -1,0 +1,10 @@
+numpy==2.4.6
+pandas
+matplotlib
+Pillow
+opencv-python==5.0.0
+scikit-image
+gymnasium==1.4.0
+torch==2.14.1
+stable-baselines3==2.9.2
+sb3-contrib==2.9.2
